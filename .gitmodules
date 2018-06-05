@@ -3,7 +3,7 @@
 	url = git://nv-tegra.nvidia.com/linux-nvgpu.git
 [submodule "hardware/nvidia/platform/t210/jetson"]
 	path = hardware/nvidia/platform/t210/jetson
-	url = git://nv-tegra.nvidia.com/device/hardware/nvidia/platform/t210/jetson.git
+	url = https://github.com/baugp/linux-l4t-4.4-hardware-t210-jetson.git
 [submodule "kernel/t18x"]
 	path = kernel/t18x
 	url = git://nv-tegra.nvidia.com/linux-t18x.git
