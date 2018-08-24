@@ -42,4 +42,4 @@
 	url = git://nv-tegra.nvidia.com/device/hardware/nvidia/soc/tegra.git
 [submodule "kernel/kernel-4.4"]
 	path = kernel/kernel-4.4
-	url = git://nv-tegra.nvidia.com/linux-4.4.git
+	url = https://github.com/baugp/linux-l4t-4.4-kernel.git
